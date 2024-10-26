@@ -1,0 +1,24 @@
+.header-container {
+  background-color: wheat;
+  background-size: cover;
+  height: 20%;
+  box-shadow: 5px 5px #97a8a5;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.links-font {
+  font-family: 'roboto';
+  font-size: 20px;
+  display: flex;
+  margin: 10px;
+  text-decoration: none;
+}
+.home-link {
+  margin: 10px;
+  color: black;
+}
+.list-items {
+  list-style: none;
+}
